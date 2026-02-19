@@ -1,0 +1,59 @@
+{
+  "updated_at": "2026-02-01",
+  "careers": [
+    {
+      "id": "AN-JOB-001",
+      "title": "Full Stack Developer",
+      "location": "Hyderabad - India",
+      "type": "Fulltime",
+      "description": "As a Full Stack Developer, you will be responsible for developing scalable applications.",
+      "salary": "$500/Month",
+      "apply_url": "apply.php?job=fsd-hyd"
+    },
+    {
+      "id": "AN-JOB-002",
+      "title": "Analytics Manager",
+      "location": "Texas - USA",
+      "type": "Contract",
+      "description": "As an Analytics Manager, you will...",
+      "salary": "$1200/Month",
+      "apply_url": "#"
+    },
+   {
+      "id": "AN-JOB-003",
+      "title": "Blockchain Developer",
+      "location": "Pune - India",
+      "type": "Consulting",
+      "description": "As a Blockchain Developer, you will design and implement decentralized applications and smart contracts.",
+      "salary": "$1200/Month",
+      "apply_url": "apply.php?job=bd-pune"
+    },
+    {
+      "id": "AN-JOB-004",
+      "title": "UI/UX Designer",
+      "location": "Bangalore - India",
+      "type": "Fulltime",
+      "description": "You will collaborate with developers and product managers to design intuitive, user-centric digital experiences.",
+      "salary": "$700/Month",
+      "apply_url": "apply.php?job=uiux-blr"
+    },
+    {
+      "id": "AN-JOB-005",
+      "title": "QA Automation Engineer",
+      "location": "Remote",
+      "type": "Fulltime",
+      "description": "Responsible for building automated test suites and ensuring product quality across platforms.",
+      "salary": "$800/Month",
+      "apply_url": "apply.php?job=qa-remote"
+    },
+    {
+      "id": "AN-JOB-006",
+      "title": "DevOps Engineer",
+      "location": "Hyderabad - India",
+      "type": "Fulltime",
+      "description": "Manage CI/CD pipelines, cloud infrastructure, and ensure system reliability and scalability.",
+      "salary": "$1000/Month",
+      "apply_url": "apply.php?job=devops-hyd"
+    }
+]
+}
